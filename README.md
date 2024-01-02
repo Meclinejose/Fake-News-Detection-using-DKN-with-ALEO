@@ -44,7 +44,7 @@ Step 3: Generate the graphs plotted in the paper<br />
 From 'current project folder' window in pycharm, open ‘194313-> Main->Result_graphs.py’, and click run button.<br /> 
 <br /> 
 <br /> 
-**5. IMPORTANT PYTHON FILE AND DESCRIPTION:**
+**5. IMPORTANT PYTHON FILE AND DESCRIPTION:**  <br /> 
 Main-> GUI.py: User Interface, code starts here<br /> 
 Main-> Run.py: Main code<br /> 
 Main->Bert_Tokenization.py :  tokenization using BERT<br /> 
